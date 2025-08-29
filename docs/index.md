@@ -6,12 +6,10 @@ Welcome to the NWSL Data Research documentation site. This is where we publish a
 
 Our research focuses on using data science and machine learning to better understand NWSL match outcomes, player performance, and team dynamics.
 
-### Latest Research
+### Featured Articles
 
-Visit our [Research Blog](blog/index.md) to read our latest analysis and insights, including:
-
-- **Over/Under Goals Prediction Model** - Statistical models for predicting total goals in NWSL matches
-- **Data Analysis Framework** - Our methodology for analyzing NWSL data
+- [Over/Under Goals Prediction](over-under-goals-prediction.md) - Statistical models for predicting total goals in NWSL matches
+- [Test Research](test-research.md) - Experimental analysis and methodology testing
 
 ## Current Focus Areas
 
