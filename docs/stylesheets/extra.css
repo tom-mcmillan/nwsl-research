@@ -1,0 +1,11 @@
+/* NWSL Data Brand Colors */
+:root {
+  --nwsl-blue: #3B82F6;
+  --nwsl-dark: #1e293b;
+  --nwsl-light: #f8fafc;
+}
+
+/* Placeholder for custom styles - will be enhanced later */
+.md-header {
+  background-color: var(--nwsl-blue);
+}
