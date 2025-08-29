@@ -26,8 +26,6 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
     - navigation.path
@@ -121,11 +119,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Research:
-    - Over/Under Goals Prediction: over-under-goals-prediction.md
-    - Test Research: test-research.md
-  - About:
-    - Main Site: https://nwsldata.com
-    - Platform: https://platform.nwsldata.com
+  - Over/Under Goals Prediction: over-under-goals-prediction.md
+  - Test Research: test-research.md
 
 copyright: Copyright &copy; 2024 NWSL Data
