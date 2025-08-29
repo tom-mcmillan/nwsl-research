@@ -1,4 +1,4 @@
-site_name: NWSL Data Research
+site_name: Research
 site_url: https://research.nwsldata.com
 site_description: Advanced data analysis and predictive modeling for the National Women's Soccer League
 site_author: NWSL Data
@@ -10,7 +10,7 @@ theme:
   name: material
   palette:
     scheme: default
-    primary: blue
+    primary: white
     accent: blue
   font: false
   features:
@@ -23,7 +23,6 @@ theme:
     - navigation.top
     - navigation.footer
     - toc.follow
-    - toc.integrate
     - search.suggest
     - search.highlight
     - search.share
