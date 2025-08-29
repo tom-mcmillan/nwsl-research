@@ -9,18 +9,9 @@ repo_name: nwsl-research
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: default
+    primary: blue
+    accent: blue
   font: false
   features:
     - navigation.instant
