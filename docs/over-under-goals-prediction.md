@@ -15,7 +15,7 @@ Key Players: The players with the most events in this area were T. Lussi, C. Vin
 Interpretation: The fact that their hotspot was in a deeper, wide area suggests that much of their effort was spent in the build-up or defensive phases. This reinforces the earlier finding that they struggled to penetrate centrally and sustain pressure in the final third.
 Conclusion: This analysis successfully pinpointed the specific players responsible for the patterns observed in the heatmaps. The winning team's key players controlled the attacking center of the pitch, while the opposing team's efforts were concentrated in a less threatening defensive area.
 
-![alt text](../download.png)
+![alt text](download.png)
 
 ```
 --- Key Players in the Kansas City Current's Hotspot ---
