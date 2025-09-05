@@ -1,4 +1,8 @@
-# Current vs Courage -- Patterns of Play
+---
+title: "Heat maps"
+description: "Tactical analysis of player positioning and hotspot patterns in Kansas City Current vs North Carolina Courage"
+date: 2024-09-04
+---
 
 I looked at a heat map of the x,y location of playersFollowing our heatmap analysis, we successfully identified the most active zones ('hotspots') for each team and the key players who dominated those areas. This gives us a granular view of who was driving the play.
 
@@ -19,15 +23,18 @@ Interpretation: The fact that their hotspot was in a deeper, wide area suggests 
 
 For Kansas City, their key attackers controlled the most valuable territory. For North Carolina, their key players were busiest in less threatening areas of the pitch.
 
-### Key Players in the Kansas City Current's Hotspot
-```
-Name              Count
-Lo'eau LaBonta    10
-Kayla Sharples    8
-Michelle Cooper   5
-Debinha           4
-Claire Hutton     4
-```
+
+
+
+**Key Players in the Kansas City Current's Hotspot**
+
+| Name | Count |
+|------|-------|
+| Lo'eau LaBonta | 10 |
+| Kayla Sharples | 8 |
+| Michelle Cooper | 5 |
+| Debinha | 4 |
+| Claire Hutton | 4 |
 
 ### Key Players in the North Carolina Courage's Hotspot ---
 ```
