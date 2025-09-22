@@ -111,7 +111,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Over/Under Goals Prediction: over-under-goals-prediction.md
+  - Heat Maps: heat-maps.md
   - Test Research: test-research.md
 
 copyright: Copyright &copy; 2024 NWSL Data

@@ -8,7 +8,7 @@ Our research focuses on using data science and machine learning to better unders
 
 ### Featured Articles
 
-- [Over/Under Goals Prediction](over-under-goals-prediction.md) - Statistical models for predicting total goals in NWSL matches
+- [Heat Maps](heat-maps.md) - Advanced visualization of player movement and performance data
 - [Test Research](test-research.md) - Experimental analysis and methodology testing
 
 ## Current Focus Areas
